@@ -1,0 +1,22 @@
+<!DOCTYPE>
+<head>
+    <title>BASIC HEADER</title>
+    <link rel="stylesheet" type="text/css" href="#">
+</head>
+<body>
+    <header>DEMO SITE</header>
+    <section id="header">
+        <h1>Header TAGS</h1>
+        <a href="#" id="link-1">Link 1</a>
+        <a href="#" id="link-2">Link 2</a>
+        <a href="#" id="link-3">Link 2</a>
+        <a href="#" id="link3">Link 4</a>
+    </section>
+    <section id="paragraph">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi corporis nesciunt, nihil, inventore non veniam cum molestiae repellat ex autem quam est nostrum ducimus ipsum quaerat quis delectus, totam adipisci?</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, id expedita repudiandae quos explicabo quae illo, repellendus ipsum sit, distinctio aspernatur molestiae voluptate eaque. Voluptatem velit delectus ad laudantium modi.</p>
+    </section>
+    <footer>
+        <h4 id="footer">Copyrights owned @2020</h4>
+    </footer>
+</body>
